@@ -10,7 +10,7 @@ I build AI apps with reliable backends and frontends. Software engineer with exp
 - 💼 Currently at Techverx working on backends and AI features
 - 📝 Connect with me on LinkedIn: [linkedin.com/in/uzair-akram](https://linkedin.com/in/uzair-akram)
 - 📫 Reach me at uzairakram@gmail.com
-- § GitHub: [github.com/Uzair-Akram](https://github.com/Uzair-Akram)
+- §GitHub: github.com/Uzair-Akram, github.com/uzairakram6
 
 ## Professional Experience
 ### Software Engineer, Techverx (05/2024 – Present)
