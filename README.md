@@ -9,7 +9,7 @@ I build AI apps with reliable backends and frontends. Software engineer with exp
 - 🔭 My main focus is Nexus - spent the past few days building this AI automation platform from idea to early users
 - 💼 Currently at Techverx working on backends and AI features
 - 📝 Connect with me on LinkedIn: [linkedin.com/in/uzair-akram](https://linkedin.com/in/uzair-akram)
-- 📫 Reach me at uzairakram@gmail.com
+- 📫 Reach me at uzairakrum@gmail.com
 - § GitHub: [github.com/Uzair-Akram](https://github.com/Uzair-Akram), [github.com/uzairakram6](https://github.com/uzairakram6)
 
 
