@@ -6,7 +6,7 @@ I build AI apps with reliable backends and frontends. Software engineer with exp
 
 - 📄 [View my full resume here](https://drive.google.com/file/d/1RtVJk50m7w5_4Ram9gPGUyRwuMFWVviD/view?usp=sharing)
 - 🔨 Engineer first - I focus on making products that work and fix real issues
-- 🔭 My main focus is Nexus - spent the past few days building this AI automation platform from idea to early users
+- 🔭 My main focus is Make It Heavy - spent the past few days building this multi-agent AI research system from idea to prototype
 - 💼 Currently at Techverx working on backends and AI features
 - 📝 Connect with me on LinkedIn: [linkedin.com/in/uzair-akram](https://www.linkedin.com/in/uzair-akrum)
 - 📫 Reach me at uzairakrum@gmail.com
@@ -21,23 +21,23 @@ Overview: Led development of key projects including a survey marketplace platfor
 Overview: Architected backend systems for property management operations and implemented testing strategies for pricing tools.
 
 ## What I'm Building
-### Nexus
+### Make It Heavy - TypeScript Multi-Agent AI Research System
 My primary focus for the past few days.
 
-AI-powered automation platform like a no-code alternative to Zapier or IFTTT. It watches Reddit for mentions (like people showing interest in buying from brands such as Apple or Google), uses AI to check sentiment and reason about it, and sends alerts to Discord or Slack.
+A powerful TypeScript implementation of an advanced multi-agent AI research orchestrator with Lead Agent coordination, specialized search subagents, automatic citations, and comprehensive logging capabilities.
 
-Built entirely from scratch: Connections to Reddit, AI filters, routing to channels, user management.
+Built entirely from scratch: Single-agent mode for quick queries, enhanced multi-agent mode for complex research, tool system integration, and CLI interface.
 
-Technical implementation: Next.js on Vercel for the frontend, Node workers on AWS Fargate for background tasks, managed Postgres with Prisma, monitoring with OpenTelemetry, and OpenAI GPT-4o for AI parts.
+Technical implementation: Uses LangChain, OpenRouter for AI models, Redis for memory persistence, and tools like calculator, web search, and file operations.
 
 Technical challenges solved:
-- Set up secure connections with OAuth and JWT for Reddit access
-- Handled dynamic prompts and resource use with protocols like MCP
-- Added AI sampling for summaries, user input during runs, JSON validation, real-time updates, and session cleanup
-- Expanded with fine-tuning models like Mistral-7B, RAG with Pinecone, prompt testing, and plans for a shared agents marketplace
-- Included idempotency, observability, and freemium pricing based on usage
+- Implemented parallel processing for efficient agent execution
+- Added adaptive configuration based on query complexity
+- Integrated automatic citations and bibliography generation
+- Enabled memory persistence and session management
+- Developed extensible tool ecosystem with type safety
 
-Tech stack: Next.js, Node.js, Postgres, Prisma, OpenTelemetry, OpenAI GPT-4o, Mistral-7B, Pinecone, Vercel, AWS Fargate.
+Tech stack: TypeScript, Node.js, LangChain, OpenRouter, Redis, DuckDuckGo search, and various npm packages like cheerio, axios, mathjs.
 
 ### FireChat | 100+ Weekly Visitors | Ongoing since 03/2025
 Quick note on this side project: Finance chat app that looks at your investment portfolio, suggests stocks with links to sources, and shares basic info on things like diversification and risk vs reward. Getting 200+ weekly users.
