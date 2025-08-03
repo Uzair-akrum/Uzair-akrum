@@ -4,9 +4,8 @@
 ## About Me
 I build AI apps with reliable backends and frontends. Software engineer with experience in full-stack work, AI tools and setting up systems that run smoothly.
 
-- 📄 [View my full resume here](https://drive.google.com/file/d/1RtVJk50m7w5_4Ram9gPGUyRwuMFWVviD/view?usp=sharing)
 - 🔨 Engineer first - I focus on making products that work and fix real issues
-- 🔭 My main focus is Make It Heavy - spent the past few days building this multi-agent AI research system from idea to prototype
+- 🔭 My main focus is Diving deep into the ai native ecosystem building deep research workflows
 - 💼 Currently at Techverx working on backends and AI features
 - 📝 Connect with me on LinkedIn: [linkedin.com/in/uzair-akram](https://www.linkedin.com/in/uzair-akrum)
 - 📫 Reach me at uzairakrum@gmail.com
