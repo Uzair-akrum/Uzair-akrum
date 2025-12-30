@@ -2,7 +2,7 @@
 **Software Engineer | GenAI Specialist | Full-Stack Developer**
 
 ## About Me
-I Despised AI for like 6 months because of how bad an experince i had with gpt 3.5 but since sonnet 3.5 i have been bullish on AI and anything remotely related to AI
+I Despised AI for like 6 months because of how bad of  an experince i had with gpt 3.5 but since sonnet 3.5 i have been bullish on AI and anything remotely related to AI , so if any of your projects contain "AI" in it thats all i need to get hooked 
 
 - 🔨 Engineer first - I focus on making products that work and fix real issues
 - 🔭 My main focus is diving deep into the AI-native ecosystem and building deep research workflows
