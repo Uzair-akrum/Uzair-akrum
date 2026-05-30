@@ -11,13 +11,13 @@ I Despised AI for like 6 months because of how bad of  an experince i had with g
 - § GitHub: [github.com/Uzair-Akram](https://github.com/Uzair-Akram), My office account => [github.com/uzairakram6](https://github.com/uzairakram6)
 
 ## Professional Experience
-### Software Engineer, Techverx (05/2024 – Present)
+### Software Engineer,  (05/2024 – Present)
 **Key Projects:**
 *   **SumHuman AI (AI Video Generation Platform):** Architected a  multi-agent, Human-in-the-Loop (HITL) system to automate video generation from text prompts. Orchestrated a pipeline from research to final video synthesis using specialized agents (Research, Image Gathering, Fact-Checking) and integrated **RunwayML** for generation.
 *   **GTS (Invoice Processing):** Delivered a full-stack pipeline using **FastAPI** and **GPT-4 Vision**, reducing client workload by 120 hours weekly. Implemented automated correction loops with GPT-4o and Gemini, improving accuracy to 94%.
 *   **Survey Marketplace:** Led the MVP delivery for a survey aggregator, integrating **Lucid Survey API** and building an OfferWall module with fraud detection.
 
-### Associate Software Engineer, Techverx (10/2022 – 04/2024)
+### Associate Software Engineer (10/2022 – 04/2024)
 **Overview:** Architected backend systems for property management operations (Buildium) supporting 5,000+ units. Implemented **RabbitMQ** for asynchronous processing and fine-tuned MongoDB aggregation pipelines for a 2.5x speed increase.
 
 ## Projects & Open Source
