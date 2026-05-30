@@ -7,7 +7,6 @@ I Despised AI for like 6 months because of how bad of  an experince i had with g
 - 🔨 Engineer first - I focus on making products that work and fix real issues
 - 🔭 My main focus is diving deep into the AI-native ecosystem and building deep research workflows
 - 💼 Currently at Techverx working on backends and AI features
-- 📝 Connect with me on LinkedIn: [linkedin.com/in/uzair-akram](https://www.linkedin.com/in/uzair-akrum)
 - 📫 Reach me at uzairakrum@gmail.com
 - § GitHub: [github.com/Uzair-Akram](https://github.com/Uzair-Akram), My office account => [github.com/uzairakram6](https://github.com/uzairakram6)
 
